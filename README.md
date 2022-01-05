@@ -1,5 +1,5 @@
 # AWS-Redshift-Data-Migration
-We explore the ability of transferring data from one database to another using python!
+With this small scale, simple example, we explore the ability of transferring data from one database to another using python!
 
 # Connect to an existing Google Cloud DB
 
