@@ -446,6 +446,7 @@ df2.head()
 
 [Connecting to AWS Redshift](https://github.com/aws/amazon-redshift-python-driver/blob/master/tutorials/001%20-%20Connecting%20to%20Amazon%20Redshift.ipynb)
 
+[AWS Connection Github](https://github.com/MyBusinessMaterialLinks/Youtube/blob/main/Connecting%20to%20AWS%20Redshift%20via%20Jupyter/Connecting%20to%20AWS%20Redshift.ipynb)
 
 ```python
 import psycopg2
