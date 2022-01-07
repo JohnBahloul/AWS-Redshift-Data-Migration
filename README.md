@@ -7,9 +7,7 @@ With this small scale, simple example, we explore the ability of transferring da
 ```python
 # Dependencies
 import pandas as pd
-import os
-import glob
-import numpy as np
+from sqlalchemy import create_engine
 
 pd.set_option('display.max_rows', 50000)
 pd.set_option('display.max_columns', 50000)
